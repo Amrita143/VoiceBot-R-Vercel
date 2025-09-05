@@ -123,7 +123,6 @@ const client = new Retell({ apiKey: process.env.RETELL_API_KEY });
 
 Here is the image attached: 
 ![Conversation Flow](conversation-flow.png)
-![mermaid-diagram.png](Mermaid Diagram.png)
 
 
 ## Here is the Mermaid diagram code for the conversation flow:
